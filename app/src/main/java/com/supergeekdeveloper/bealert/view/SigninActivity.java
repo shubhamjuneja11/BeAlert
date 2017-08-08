@@ -1,4 +1,4 @@
-package com.supergeekdeveloper.bealert;
+package com.supergeekdeveloper.bealert.view;
 
 import android.content.Intent;
 import android.support.annotation.NonNull;
@@ -21,6 +21,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.GoogleAuthProvider;
+import com.supergeekdeveloper.bealert.R;
 
 public class SigninActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener,View.OnClickListener {
 GoogleApiClient mGoogleApiClient;

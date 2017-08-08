@@ -1,8 +1,10 @@
-package com.supergeekdeveloper.bealert;
+package com.supergeekdeveloper.bealert.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
+
+import com.supergeekdeveloper.bealert.R;
 
 public class MainActivity extends AppCompatActivity {
 

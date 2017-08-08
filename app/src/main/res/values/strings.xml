@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Be Alert</string>
     <string name="mykey">477547675595-mqa51dosb23f3qcf3mso9rpis8l8dpej.apps.googleusercontent.com</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="mao_key">AIzaSyBcMOzD38kI06jmSNcpvH0iX1kJ9fbEqac</string>
 </resources>
